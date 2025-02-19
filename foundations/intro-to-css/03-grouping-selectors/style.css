@@ -1,0 +1,14 @@
+.lmt_one {
+    background-color: black;
+    color: white;
+}
+
+.lmt_two {
+    background-color: yellow;
+}
+
+.lmt_one, 
+.lmt_two {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', 'sans serif';
+}

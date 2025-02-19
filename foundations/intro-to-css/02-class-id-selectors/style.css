@@ -12,3 +12,8 @@
 .font_24 {
     font-size: 24px;
 }
+
+#the_4th {
+    background: rgb(159, 207, 159);
+    font-weight: bold;
+}
